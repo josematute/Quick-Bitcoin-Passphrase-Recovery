@@ -1,8 +1,8 @@
-# Simple Bitcoin Passphrase Finder
+# Quick Bitcoin Passphrase Finder
 
 ## Introduction
 
-Welcome to this simple Simple Bitcoin Passphrase Finder! This project was born from a personal challenge with my Bitcoin wallet. In early 2024, I lost access to my wallet containing approximately 0.24 BTC, worth around $10,500 at the time. The development of this tool is a response to that challenge, and I believe it can be highly beneficial to others facing similar situations who just want to run a quick and easy program to find their passphrase.
+Welcome to this simple Quick Bitcoin Passphrase Finder! This project was born from a personal challenge with my Bitcoin wallet. In early 2024, I lost access to my wallet containing approximately 0.24 BTC, worth around $10,500 at the time. The development of this tool is a response to that challenge, and I believe it can be highly beneficial to others facing similar situations who just want to run a quick and easy program to find their passphrase.
 
 ### Background
 
@@ -43,7 +43,7 @@ Before you begin, ensure you have Node.js installed on your system. If you don't
 First, clone the repository to your local machine:
 
 ```bash
-git clone [repository URL]
+git clone https://github.com/josematute/Quick-Bitcoin-Passphrase-Recovery.git
 cd bitcoin-fingerprints
 ```
 
