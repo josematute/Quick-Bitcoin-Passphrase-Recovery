@@ -133,7 +133,7 @@ This is how I would go about using this project. Let's say I have a 24-word seed
 
 `share spend art rug orphan member mixed pause raccoon rule cable inquiry volume cost symptom elephant violin door place avocado hazard eye brave broccoli`
 
-And I have the fingerprint of my wallet **after** adding my forgotten passphrase. Let's say `3df66e66`. Then, in the `passphrases.txt` file, I would put, separated by new lines, as many passphrases as I can remember, with as many variations as possible, to generate as many possible seedphrases as I can to finally get a match. A successful print would look like this:
+And I have the fingerprint of my wallet **after** adding my forgotten passphrase. Let's say `3df66e66`. Then, in the `passphrases.txt` file, I would put, separated by new lines, as many passphrases as I can remember, with as many variations as possible, to generate as many possible passphrases as I can to finally get a match. Additionally, if you know how to code, you can edit the function `logFingerprintForPassphrase` in the file `generateFingerprints.js` so you can add permutations faster with code. _A combination of these two strategies would be even better in my opinion._ A successful print would look like this:
 
 ```bash
 ... other attempts
